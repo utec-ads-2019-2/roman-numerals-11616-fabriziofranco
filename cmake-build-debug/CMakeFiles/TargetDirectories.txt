@@ -1,0 +1,3 @@
+/home/fabrizio/Desktop/ADS/roman-numerals-11616-fabriziofranco/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fabrizio/Desktop/ADS/roman-numerals-11616-fabriziofranco/cmake-build-debug/CMakeFiles/roman_numerals_11616_fabriziofranco.dir
+/home/fabrizio/Desktop/ADS/roman-numerals-11616-fabriziofranco/cmake-build-debug/CMakeFiles/edit_cache.dir
